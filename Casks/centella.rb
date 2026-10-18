@@ -8,7 +8,7 @@ cask "centella" do
   homepage "https://github.com/LostCode09/centella-releases"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Centella.app"
 
