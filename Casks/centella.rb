@@ -1,6 +1,6 @@
 cask "centella" do
-  version "0.1.0"
-  sha256 "175d7c6c341259f1a54a2a7cf106204fc55605a4fc121a55a6e15be6848986f6"
+  version "0.2.0"
+  sha256 "85d97acbb758d3ae3853851a06394f38a7b6c6dafd09b6b5f4109fa69c6b922a"
 
   url "https://github.com/LostCode09/centella-releases/releases/download/v#{version}/Centella-#{version}.dmg"
   name "Centella"
